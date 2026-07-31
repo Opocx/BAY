@@ -7,5 +7,5 @@ ip-cidr, 224.0.0.0/24, direct
 ip-cidr, 182.254.116.0/24, direct
 
 host-suffix, schwab.com, direct
-
+host-suffix, poke.com, SG
 geoip, cn, direct
