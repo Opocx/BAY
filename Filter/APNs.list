@@ -1,6 +1,6 @@
 HOST-SUFFIX, push.apple.com, APNs
-#HOST-SUFFIX, akadns.net, APNs
-#HOST-KEYWORD, apple.com.edgekey.net, APNs
+HOST-SUFFIX, akadns.net, APNs
+HOST-KEYWORD, apple.com.edgekey.net, APNs
 
 IP-CIDR, 17.249.0.0/16, APNs
 IP-CIDR, 17.252.0.0/16, APNs
