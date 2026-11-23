@@ -1,4 +1,6 @@
 host-suffix, schwab.com, direct
 host-suffix, xhscdn.com, direct
-host-suffix, poke.com, SG
+
 geoip, cn, direct
+
+host-suffix, poke.com, SG
